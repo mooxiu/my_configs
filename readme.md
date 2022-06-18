@@ -5,6 +5,8 @@ my config contains some config files and some steps I'd like to config when I ha
 ## List
 - zsh file
 - vimrc
+- jetbrians
+  - Itellij
 - and more
 
 ## Steps:
