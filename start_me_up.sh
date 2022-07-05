@@ -13,3 +13,14 @@ brew install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
+# install some software that I used a lot
+
+# command line software
+# yt-dlp
+brew install yt-dlp
+# the fuck: https://formulae.brew.sh/formula/thefuck
+brew install thefuck
+
+# GUI software, should install with cask
+# app cleaner 
+brew install --cask appcleaner
