@@ -24,7 +24,7 @@ brew install thefuck
 # GUI software, should install with cask
 # app cleaner 
 brew install --cask appcleaner
-# typora 
+# typora, a markdown editor
 brew install --cask typora
 # add typora to path
 echo '\nalias typora="open -a typora"' >> ~/.zshrc
