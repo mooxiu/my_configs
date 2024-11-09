@@ -16,31 +16,36 @@ normal = {family = "MesloLGS NF", style = "Regular"}
 size = 13
 offset = {x = 1, y = 2}
 
-# Colors (Solarized Dark)
+# Colors (PaperColor - Dark)
 
 # Default colors
 [colors.primary]
-background = '#002b36'
-foreground = '#839496'
+background = '#1c1c1c'
+foreground = '#808080'
+
+[colors.cursor]
+text = '#1c1c1c'
+cursor = '#808080'
 
 # Normal colors
 [colors.normal]
-black   = '#073642'
-red     = '#dc322f'
-green   = '#859900'
-yellow  = '#b58900'
-blue    = '#268bd2'
-magenta = '#d33682'
-cyan    = '#2aa198'
-white   = '#eee8d5'
+black   = '#1c1c1c'
+red     = '#af005f'
+green   = '#5faf00'
+yellow  = '#d7af5f'
+blue    = '#5fafd7'
+magenta = '#808080'
+cyan    = '#d7875f'
+white   = '#d0d0d0'
 
 # Bright colors
 [colors.bright]
-black   = '#002b36'
-red     = '#cb4b16'
-green   = '#586e75'
-yellow  = '#657b83'
-blue    = '#839496'
-magenta = '#6c71c4'
-cyan    = '#93a1a1'
-white   = '#fdf6e3'
+black   = '#585858'
+red     = '#5faf5f'
+green   = '#afd700'
+yellow  = '#af87d7'
+blue    = '#ffaf00'
+magenta = '#ffaf00'
+cyan    = '#00afaf'
+white   = '#5f8787'
+
