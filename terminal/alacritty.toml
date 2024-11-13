@@ -4,7 +4,7 @@
 
 [window]
 decorations = "Full"
-opacity = 0.95
+opacity = 0.94
 blur = true
 title = "👋 Haruka~"
 padding.x = 10
@@ -13,39 +13,35 @@ dimensions = {columns = 100, lines = 46}
 
 [font]
 normal = {family = "MesloLGS NF", style = "Regular"}
-size = 13
+size = 12.8
 offset = {x = 1, y = 2}
 
-# Colors (PaperColor - Dark)
+# Colors (Snazzy)
 
 # Default colors
 [colors.primary]
-background = '#1c1c1c'
-foreground = '#808080'
-
-[colors.cursor]
-text = '#1c1c1c'
-cursor = '#808080'
+background = '#282a36'
+foreground = '#eff0eb'
 
 # Normal colors
 [colors.normal]
-black   = '#1c1c1c'
-red     = '#af005f'
-green   = '#5faf00'
-yellow  = '#d7af5f'
-blue    = '#5fafd7'
-magenta = '#808080'
-cyan    = '#d7875f'
-white   = '#d0d0d0'
+black   = '#282a36'
+red     = '#ff5c57'
+green   = '#5af78e'
+yellow  = '#f3f99d'
+blue    = '#57c7ff'
+magenta = '#ff6ac1'
+cyan    = '#9aedfe'
+white   = '#f1f1f0'
 
 # Bright colors
 [colors.bright]
-black   = '#585858'
-red     = '#5faf5f'
-green   = '#afd700'
-yellow  = '#af87d7'
-blue    = '#ffaf00'
-magenta = '#ffaf00'
-cyan    = '#00afaf'
-white   = '#5f8787'
+black   = '#686868'
+red     = '#ff5c57'
+green   = '#5af78e'
+yellow  = '#f3f99d'
+blue    = '#57c7ff'
+magenta = '#ff6ac1'
+cyan    = '#9aedfe'
+white   = '#f1f1f0'
 
